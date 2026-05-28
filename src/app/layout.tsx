@@ -31,7 +31,7 @@ export default function RootLayout({
       className={`${cairo.variable}  h-full  antialiased`}
     >
       <body className="min-h-full flex flex-col bg-background">
-        {/* <video
+        <video
           className="absolute inset-0 h-full w-full object-cover"
           autoPlay
           muted
@@ -39,7 +39,7 @@ export default function RootLayout({
           playsInline
         >
           <source src="/hero_1.mp4" type="video/mp4" />
-        </video> */}
+        </video>
 
         {/* <div
           className="
