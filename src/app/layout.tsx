@@ -39,7 +39,7 @@ export default function RootLayout({
           playsInline
         >
           <source src="/hero_1.mp4" type="video/mp4" />
-        </video>
+        </video> 
 
         {/* <div
           className="
