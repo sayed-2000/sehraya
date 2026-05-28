@@ -21,7 +21,7 @@ export default function Footer() {
         <p className="text-sm text-gray-300 text-center">
           Designed & Developed by EN{" "}
           <Link
-            href="https://github.com/"
+            href="https://my-portfolio-kappa-gules-60.vercel.app/"
             target="_blank"
             className="
               text-primary

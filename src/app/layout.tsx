@@ -41,16 +41,6 @@ export default function RootLayout({
           <source src="/hero_1.mp4" type="video/mp4" />
         </video> 
 
-        {/* <div
-          className="
-      absolute inset-0
-      bg-[url('/hero.gif')]
-      bg-cover
-      bg-center
-      bg-no-repeat
-    "
-        ></div> */}
-
         {/* Dark Overlay */}
         <div className="absolute inset-0 bg-black/60" />
         <NavBar />
